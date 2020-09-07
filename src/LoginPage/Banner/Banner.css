@@ -1,0 +1,14 @@
+.banner {
+    text-align: center;
+    padding-top: 5%;
+    background-image: url("../../Images/logo_size.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 100px;
+}
+
+.headline {
+    color: #0e0303;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', Verdana, Geneva, Tahoma, sans-serif;
+    
+}

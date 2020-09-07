@@ -1,0 +1,9 @@
+.loginPanel {
+    width: 40%;
+    height: 30%;
+    margin: 5% auto;
+    border: 1px solid #eeeeee;
+    box-shadow: 0 20px 30px #b1afaf;
+    padding: 16px;
+    text-align: center;
+}
